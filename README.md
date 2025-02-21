@@ -1,7 +1,8 @@
 
 # CryptiChat - Secure Full-Stack Real-Time Messaging
 
-![image](https://github.com/user-attachments/assets/fff071cd-cec4-4408-950f-5d50495bf6aa)
+![image](https://github.com/user-attachments/assets/7cb2b9a6-ba4b-4bbf-a435-456879f6d03c)
+
 
 
 # MERN Chat App
@@ -11,13 +12,13 @@ A modern, real-time chat application built with the MERN stack, featuring live m
 ## Features
 
 - **Tech Stack:** MERN (MongoDB, Express, React, Node.js) + Socket.io + TailwindCSS + DaisyUI
+- **End 2 End Encryption:** Robust security with e2e asymmetric encryption
 - **Authentication & Authorization:** Secure login and registration with JWT
 - **Real-Time Messaging:** Instant chat powered by Socket.io
 - **Online User Status:** See who’s online in real-time
-- **Global State Management:** Handled efficiently using Zustand
 - **Robust Error Handling:** Implemented on both server and client sides
+- **Global State Management:** Handled efficiently using Zustand
 - **Production-Ready Deployment:** Deploy your app for free
-- **End 2 End Encryption:** Robust security with e2e asymmetric encryption
 
 ## Setup & Configuration
 
